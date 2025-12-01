@@ -2,7 +2,13 @@
 
 **Kabutr** is a powerful web application that allows you to hide secret text messages inside images using advanced steganography techniques combined with AES encryption. It ensures that your secrets remain invisible and secure.
 
-![Kabutr Hero](https://via.placeholder.com/800x400?text=Kabutr+Steganography)
+[Kabutr](https://kabutr.onrender.com/)
+
+## Images
+<img width="3169" height="1666" alt="image" src="https://github.com/user-attachments/assets/9a5e39c8-7c35-4f23-b2fa-e85153c36c07" />
+
+<img width="3162" height="1667" alt="image" src="https://github.com/user-attachments/assets/131ef661-8267-4bed-845b-53fe435949b3" />
+
 
 ## 🚀 Features
 
