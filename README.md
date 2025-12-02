@@ -342,6 +342,10 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 - GitHub: [@pradeepx-dev](https://github.com/pradeepx-dev)
 - Project Link: [https://github.com/pradeepx-dev/Kabutr](https://github.com/pradeepx-dev/Kabutr)
 
+**Anurag Kumar**
+
+- GitHub: [@Account1-Anurag](https://github.com/Account1-Anurag)
+- Project Link: [https://github.com/Account1-Anurag/Kabutr](https://github.com/Account1-Anurag/Kabutr)
 ---
 
 ## Acknowledgments
