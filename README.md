@@ -346,6 +346,11 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 - GitHub: [@Account1-Anurag](https://github.com/Account1-Anurag)
 - Project Link: [https://github.com/Account1-Anurag/Kabutr](https://github.com/Account1-Anurag/Kabutr)
+
+**Priya Yadav**
+
+- GitHub: [@Account1-Priya](https://github.com/Account1-Priya)
+- Project Link: [https://github.com/Account1-Priya/Kabutr](https://github.com/Account1-Priya/Kabutr)
 ---
 
 ## Acknowledgments
